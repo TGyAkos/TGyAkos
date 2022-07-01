@@ -1,4 +1,4 @@
-![Header](https://github.com/TGyAkos/TGyAkos/blob/main/swon_map.png "nav")
+![Header](https://github.com/TGyAkos/TGyAkos/blob/main/swon_map_smol.png "nav")
 # Morning! I'm TGyAkos
 ### Aspiring Software Developer and Student
 
