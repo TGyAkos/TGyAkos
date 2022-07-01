@@ -1,5 +1,5 @@
+![Header](https://github.com/TGyAkos/TGyAkos/blob/main/trianglify.png)
 ### Hi there 👋
-
 <!--
 **TGyAkos/TGyAkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
