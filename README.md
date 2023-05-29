@@ -1,6 +1,11 @@
 ![Header](https://github.com/TGyAkos/TGyAkos/blob/main/swon_map_smol.png "nav")
 
-# Morning! I'm TGyAkos
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block;"> Morning! I'm TGyAkos </h1></summary>
+    <br>
+  </ul>
+</div>
 
 [<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyakos&langs_count=6&theme=transparent&hide_border=true">](https://ionicabizau.github.io/github-profile-languages/?user=tgyakos)
 
