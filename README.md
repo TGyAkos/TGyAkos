@@ -17,7 +17,7 @@ TGyAkos = new(Programmer)
 
 TGyAkos.langs = @["Nim", "C", "C#", "Java",
                   "Js", "Ts", "PHP", "HTML", "CSS"]
-TGyAkos.editors = @["LunarVim", "VS", "VSCode", "IntelliJ"]
+TGyAkos.editors = @["LunarVim", "VSCode", "IntelliJ"]
 
 ``` 
 
