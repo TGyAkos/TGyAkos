@@ -2,7 +2,7 @@
 
 # Morning! I'm TGyAkos
 
-[<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyakos&langs_count=6&theme=gruvbox">](https://ionicabizau.github.io/github-profile-languages/?user=tgyakos)
+[<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyakos&langs_count=6&theme=transparent&hide_border=true">](https://ionicabizau.github.io/github-profile-languages/?user=tgyakos)
 
 ```nim
 
@@ -21,6 +21,6 @@ TGyAkos.editors = @["LunarVim", "VS", "VSCode", "IntelliJ"]
 
 ``` 
 
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=tgyakos&show_icons=true&theme=gruvbox">
+<img align="center" width="48%" style="border: none" src="https://github-readme-stats.vercel.app/api?username=tgyakos&show_icons=true&theme=transparent&hide_border=true">
 
 
