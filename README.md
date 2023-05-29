@@ -1,8 +1,28 @@
 ![Header](https://github.com/TGyAkos/TGyAkos/blob/main/swon_map_smol.png "nav")
-# Morning! I'm TGyAkos
-### Aspiring Software Developer and Student
 
-<!--
-Made with: https://hexgridgenerator.github.io/ 
-**TGyAkos/TGyAkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Morning! I'm TGyAkos
+
+[<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgyakos&langs_count=6&theme=gruvbox">](https://ionicabizau.github.io/github-profile-languages/?user=tgyakos)
+
+```nim
+
+type
+  Programmer* = object
+    langs*, editors*: seq[string]
+    
+var
+  TGyAkos: ref Programmer
+  
+TGyAkos = new(Programmer)
+
+TGyAkos.langs = @["Nim", "C", 
+                  "C#", "Java", "PHP",
+                  "Vue", "React", "NestJs",
+                  "Js", "Ts", "HTML", "CSS"]
+TGyAkos.editors = @["LunarVim", "VS", "VSCode", "IntelliJ"]
+
+``` 
+
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=tgyakos&show_icons=true&theme=gruvbox">
+
+
