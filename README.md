@@ -23,6 +23,6 @@ TGyAkos.editors = @["LunarVim", "VS", "VSCode", "IntelliJ"]
 
 ``` 
 
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=tgyakos&show_icons=true&theme=gruvbox">
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=tgyakos&show_icons=true&theme=gruvbox">
 
 
