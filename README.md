@@ -20,8 +20,8 @@ var
   
 TGyAkos = new(Programmer)
 
-TGyAkos.langs = @["Nim", "C", "C#", "Java", "Py",
-                  "Js", "Ts", "PHP", "HTML", "CSS"]
+TGyAkos.langs = @["Nim", "C", "C#", "C++", "Java", 
+                  "Py", "Js", "Ts", "PHP", "HTML", "CSS"]
 TGyAkos.editors = @["Lvim", "VS", "VSCode", "IntelliJ"]
 
 ``` 
