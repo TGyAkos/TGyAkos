@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-[<img align="right" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tgyakos&langs_count=6&theme=transparent&hide_border=true">](https://ionicabizau.github.io/github-profile-languages/?user=tgyakos)
+[<img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tgyakos&langs_count=6&theme=transparent&hide_border=true">](https://ionicabizau.github.io/github-profile-languages/?user=tgyakos)
 
 ```nim
 
